@@ -1,6 +1,3 @@
-# terraform-resource-group
-This repository contain Terraform Resource Group module.
-
 ## Requirements
 
 No requirements.
@@ -33,6 +30,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_id"></a> [id](#output\_id) | n/a |
-| <a name="output_resource_group"></a> [resource\_group](#output\_resource\_group) | n/a |
-| <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | n/a |
+| <a name="output_id"></a> [id](#output\_id) | Resource Group Id. |
+| <a name="output_resource_group"></a> [resource\_group](#output\_resource\_group) | Resource Group Details. |
+| <a name="output_resource_group_name"></a> [resource\_group\_name](#output\_resource\_group\_name) | Resource Group Name. |
